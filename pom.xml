@@ -8,7 +8,6 @@
     <artifactId>vocabulyzer</artifactId>
     <version>0.2</version>
 
-
     <packaging>jar</packaging>
     <url>http://maven.apache.org</url>
     <build>
